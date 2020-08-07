@@ -13,6 +13,7 @@
         <module>SpringBoot-Scheduling</module>
         <module>SpringBoot-SimpleRedis</module>
         <module>SpringBoot-RabbitMQ</module>
+        <module>SpringBoot-MySQL</module>
     </modules>
 
 
