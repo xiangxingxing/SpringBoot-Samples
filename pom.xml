@@ -14,6 +14,7 @@
         <module>SpringBoot-SimpleRedis</module>
         <module>SpringBoot-RabbitMQ</module>
         <module>SpringBoot-MySQL</module>
+        <module>SpringBoot-ComsumeRest</module>
     </modules>
 
 
