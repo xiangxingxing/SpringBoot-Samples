@@ -15,6 +15,7 @@
         <module>SpringBoot-RabbitMQ</module>
         <module>SpringBoot-MySQL</module>
         <module>SpringBoot-ComsumeRest</module>
+        <module>SpringBoot-RestCors</module>
     </modules>
 
 
