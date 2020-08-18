@@ -16,6 +16,7 @@
         <module>SpringBoot-MySQL</module>
         <module>SpringBoot-ComsumeRest</module>
         <module>SpringBoot-RestCors</module>
+        <module>Mall-Tiny-01</module>
     </modules>
 
 
