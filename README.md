@@ -1,2 +1,2 @@
 # SpringBoot-Samples
-Personal springboot learning
+Personal spring-boot learning
